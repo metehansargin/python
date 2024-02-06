@@ -16,7 +16,7 @@ else:
     print("sayiniz random sayidan kucuk")"""
 
 drivers_lience=True
-age=18
+age=19
 
 if age>17:
     if drivers_lience:
