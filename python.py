@@ -2,10 +2,10 @@
 """number=int(input("sayi"))
 if(number<15):
     print("tuttugun sayi daha dusuk")"""
-import random
+"""import random
 number=int
 sayi=int
-sayi=random
+sayi=random"""
 """
 print(random.randint(1,6))
 number=input("Sayinizi Giriniz:")
@@ -47,7 +47,8 @@ for b in range(1,101):
     print(b)
   elif b%2==0:
     print(b)
-   
-       
+
+
+
  
 
