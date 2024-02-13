@@ -33,3 +33,5 @@ def change_number():
 change_number()
 print(number)
 
+import testmodule
+testmodule.hello("Veli")
