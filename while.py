@@ -1,4 +1,4 @@
-import time
+"""import time
 celsius=int
 celsius=10
 while celsius < 50:
@@ -13,7 +13,13 @@ while celsius < 50:
          print("something went wrong")
      print("Termometre is",celsius)
      celsius+=5
-     time.sleep(1)
+     time.sleep(1)"""
     
+
+def hello(name):
+  print("Merhaba",name)
+
+  hello("metehan")    
+
 
    

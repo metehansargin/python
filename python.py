@@ -48,9 +48,17 @@ for b in range(1,101):
   elif b%2==0:
     print(b)
 
-print("metehan")
 
+def hello(name):
+   print("merhaba",name)
 
-
+hello("metehan")
  
+def sum(number,number2):
+   answer=number+number2
+   return answer    #eger buraya return eklemezsek none deger donecek. Onun için return kullanmamız lazım
+
+geri=sum(10,9)
+print(geri)
+
 
