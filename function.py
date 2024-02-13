@@ -39,3 +39,4 @@ testmodule.hello("Veli")
 def fool():
    print("this is fool")
    return "hello world"
+
