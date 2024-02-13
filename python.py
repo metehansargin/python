@@ -48,6 +48,8 @@ for b in range(1,101):
   elif b%2==0:
     print(b)
 
+print("metehan")
+
 
 
  
