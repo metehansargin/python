@@ -15,6 +15,7 @@ print(item1)
 print(item2)
 print(item3)
 print(item4)
+print(item1)
 print(language_list[0])
 
 
